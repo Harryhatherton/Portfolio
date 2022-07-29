@@ -1,3 +1,3 @@
-# Portfolio-css
+# Portfolio
 
-https://harryhatherton.github.io/Portfolio-css/
+https://harryhatherton.github.io/Portfolio/
